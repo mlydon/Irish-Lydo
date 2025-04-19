@@ -25,4 +25,4 @@ A modern, responsive personal website featuring a clean design with light and da
 
 ## License
 
-MIT License 
+MIT License # studio-in-cloud-scheduler
